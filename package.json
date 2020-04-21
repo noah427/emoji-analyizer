@@ -1,0 +1,17 @@
+{
+  "name": "remojispamcollector",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-emoji": "^1.10.0",
+    "snoowrap": "^1.21.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "noah427",
+  "license": "ISC",
+  "description": ""
+}
